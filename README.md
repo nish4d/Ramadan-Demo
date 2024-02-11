@@ -1,3 +1,3 @@
-# Ramadan Calander
+# Ramadan Calender
 
 Comming soon
