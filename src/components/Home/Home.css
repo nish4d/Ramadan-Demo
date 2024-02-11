@@ -1,0 +1,9 @@
+.home{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 60px;
+    color:#536dc2;
+    color: linear-gradient(135deg, #006eae, #c100fb);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 600;
+}
